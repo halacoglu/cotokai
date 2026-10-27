@@ -1,15 +1,11 @@
-# Monokai Pro (Community Edition) for [My App](https://my-app.url)
+# Monokai Pro (Community Edition) for [CotEditor](https://coteditor.com)
 
 ## Installation instructions
 
-Clone from Github:
-
-```zsh
-git clone https://github.com/monokai-pro/my-app.git
-```
+Download `Monokai Pro (CE).cottheme` file from this repo
 
 ### Activating theme
 
-1. Copy the files
-2. Activate theme
-3. Enjoy!
+1. Go to `CotEditor > Settings` or hit `CMD + Ö`
+2. Go to `Appearance` tab
+3. Hit `(...)` in the bottom left corner and import `Monokai Pro (CE).cottheme` file
