@@ -1,0 +1,57 @@
+{
+  "metadata" : {
+    "author" : "Osman Halaçoğlu",
+    "distributionURL" : "https://github.com/halacoglu",
+    "license" : "MIT",
+    "description" : "Monokai Pro (CE) is free, non-commercial and open source."
+  },
+  "isDarkTheme" : true,
+  "keywords" : {
+    "color" : "#FC4675"
+  },
+  "attributes" : {
+    "color" : "#69D5E2"
+  },
+  "background" : {
+    "color" : "#221F23"
+  },
+  "characters" : {
+    "color" : "#9A87EE"
+  },
+  "commands" : {
+    "color" : "#9BD863"
+  },
+  "comments" : {
+    "color" : "#5F5D5F"
+  },
+  "insertionPoint" : {
+    "color" : "#FBFBF9"
+  },
+  "invisibles" : {
+    "color" : "#49474A"
+  },
+  "lineHighlight" : {
+    "color" : "#2A272A"
+  },
+    "numbers" : {
+    "color" : "#9A87EE"
+  },
+  "selection" : {
+    "color" : "#312F32"
+  },
+  "strings" : {
+    "color" : "#FED154"
+  },
+  "text" : {
+    "color" : "#FBFBF9"
+  },
+  "types" : {
+    "color" : "#69D5E2"
+  },
+  "values" : {
+    "color" : "#9A87EE"
+  },
+  "variables" : {
+    "color" : "#F98455"
+  }
+}
